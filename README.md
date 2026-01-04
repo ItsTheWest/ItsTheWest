@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">✨ Desarrollador FullStack <br>📚 Actualmente estudiando Ingeniería en Computación y aprendiendo sobre el uso de la IA en la vida cotidiana <br>🎯 Metas: Hablar inglés y vivir de lo que amo hacer <br>🎲 Dato curioso: Suelo jugar muchos videojuegos</p>
+<p align="left">✨ Desarrollador FullStack <br>📚 Actualmente estudiando Ingeniería en Informática y aprendiendo sobre el uso de la IA en la vida cotidiana <br>🎯 Metas: Hablar inglés y vivir de lo que amo hacer <br>🎲 Dato curioso: Suelo jugar muchos videojuegos</p>
 
 ###
 
