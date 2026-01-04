@@ -17,23 +17,23 @@
 
 ###
 
-<h1 align="center">Bienvenido 👋</h1>
+<h1 align="center">Welcome 👋</h1>
 
 ###
 
-<h2 align="left">Sobre mi</h2>
+<h2 align="left">About me</h2>
 
 ###
 
-<p align="left">✨. Desarrollador FullStack <br>📚 Actualmente estoy estuidando ingenieria en informatica y aprendiendo acerca del uso d ela IA en la vida cotidana <br>🎯 Goals: Hablar Ingles y vivir de lo que me gusta hacer<br>🎲 Fun fact: Suelo jugar mucho videojuegos</p>
+<p align="left">✨ FullStack Developer <br>📚 Currently studying Computer Engineering and learning about the use of AI in everyday life <br>🎯 Goals: Speak English and live from what I love doing <br>🎲 Fun fact: I usually play a lot of video games</p>
 
 ###
 
-<h2 align="left">Tecnologías</h2>
+<h2 align="left">Technologies</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  />
@@ -64,11 +64,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-
 
 ###
