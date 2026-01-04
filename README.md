@@ -17,7 +17,7 @@
 
 ###
 
-<h1 align="center">¡Bienvenido/a 👋</h1>
+<h1 align="center">¡Bienvenido👋</h1>
 
 ###
 
