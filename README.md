@@ -10,7 +10,7 @@
 ###
 
 <h1 align="center">¡Bienvenido👋</h1>
-<p align="left">Me llamo Nelson Figueroa y soy desarrollador fullstack de venezuela </p>
+<p align="left">Me llamo Nelson Figueroa y soy desarrollador en apprendizaje del desarrollo fullstack en venezuela </p>
 
 ###
 
